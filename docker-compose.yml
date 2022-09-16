@@ -10,6 +10,8 @@ services:
       EULA: "TRUE"
       PACKWIZ_URL: "https://pirayapartyproviders.github.io/psmp/pack/pack.toml"
       OVERRIDE_SERVER_PROPERTIES: "true"
+      OVERRIDE_ICON: "TRUE"
+      ICON: "https://pirayapartyproviders.github.io/psmp/piraya.png"
       TYPE: "FABRIC"
       SERVER_NAME: "Piraya SMP"
       MOTD: "§1§cPiraya§r §nSMP"
