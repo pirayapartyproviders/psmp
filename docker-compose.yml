@@ -8,6 +8,7 @@ services:
       - 25565:25565
     environment:
       EULA: "TRUE"
+      PACKWIZ_URL: "https://pirayapartyproviders.github.io/psmp/pack/pack.toml"
       OVERRIDE_SERVER_PROPERTIES: "true"
       TYPE: "FABRIC"
       SERVER_NAME: "Piraya SMP"
