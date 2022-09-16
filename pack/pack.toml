@@ -1,0 +1,13 @@
+name = "psmp"
+author = "Ernst Fisk"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0b8e00e75f727ad3da35260a8d190b6554ce6cf9761518983021247162137906"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
