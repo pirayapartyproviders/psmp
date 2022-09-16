@@ -41,6 +41,11 @@ hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "e239776ebbeddc57a880c3a5de131122e4e6ecf8984674dbe1b2ff64133ab5f8"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
