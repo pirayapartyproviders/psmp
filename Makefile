@@ -11,6 +11,7 @@ stop:
 	docker-compose down
 
 restart:
+	docker exec psmp rcon-cli say restarting
 	docker exec psmp rcon-cli save-all
 	sleep 3
 	docker exec psmp rcon-cli stop

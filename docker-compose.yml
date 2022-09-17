@@ -16,6 +16,7 @@ services:
       ICON: "https://pirayapartyproviders.github.io/psmp/piraya.png"
       TYPE: "FABRIC"
       SERVER_NAME: "Piraya SMP"
+      ENABLE_WHITELIST: "TRUE"
       ENFORCE_WHITELIST: "TRUE"
       MOTD: "§1§cPiraya§r §nSMP"
       DIFFICULTY: "hard"
