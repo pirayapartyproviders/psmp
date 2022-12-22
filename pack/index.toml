@@ -11,8 +11,13 @@ hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "bea3f779d2e95cf593b9efd67d7ee71886bfddc5bc8ac5585245e0f09055b5cb"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "7ff7400593d767a9a44f67e8fbdf410a71b8dfda371ec47c30f3380ff551617a"
 metafile = true
 
 [[files]]
