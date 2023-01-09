@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "044694e5e42ec043ca881e4eb6b4de75199fce04f5a54f08214cf9e6840f0d38"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "96e2449dabc91f4ea7c19a2b437ab455fef61679eff48b272b1979124b8a0f12"
+hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
 metafile = true
 
 [[files]]
