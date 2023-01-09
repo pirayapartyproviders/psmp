@@ -246,6 +246,11 @@ hash = "d2559608c07650a8ae6adda7440edc2fe1ff9ce7c8b276c8aba8cc249e4ddc08"
 metafile = true
 
 [[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
@@ -288,11 +293,6 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "d50cba471a9055731e2a5c2e96bc3da3130079c1c573ee85d57c08ec4d999581"
 metafile = true
 
 [[files]]
@@ -388,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
