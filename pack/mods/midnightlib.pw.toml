@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-quilt-1.0.0-patch1.jar"
+filename = "midnightlib-fabric-1.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3e1d6866bb820558e6c0db8cb6c9d1931d6ff268"
+hash = "a4d7c5f2f191e7e0fc2b272116212ac8134652bf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4059677
+file-id = 4059589
 project-id = 488090

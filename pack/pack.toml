@@ -1,13 +1,13 @@
-name = "BigMods"
-author = "Oscar"
+name = "BigFabric"
+author = "me"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e7862452df4140f0431aeb0e1b38323c1ca3af664ffc6c943dd489be49e2faa8"
+hash = "e03533381f9ab3aac6226f6aed36eb71ce72b1164d71da936e28cf0ff2bf2f95"
 
 [versions]
+fabric = "0.14.12"
 minecraft = "1.19.2"
-quilt = "0.18.1-beta.27"
