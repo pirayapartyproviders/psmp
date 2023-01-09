@@ -521,11 +521,6 @@ hash = "aaf65877574c35f7a348014ddfb77b55fc1b88a089652fac2d8500b407de6555"
 metafile = true
 
 [[files]]
-file = "mods/villager-names-fabric.pw.toml"
-hash = "82a29afb1e461e36718af6d5fe5b4790f4911b4d59242d6ab4cc7f3db77b7e00"
-metafile = true
-
-[[files]]
 file = "mods/visuality.pw.toml"
 hash = "982ad5242db0a63779f0738334eda8f8a8c5b12e309006c99692606d6f5c3837"
 metafile = true
