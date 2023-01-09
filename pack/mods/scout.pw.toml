@@ -1,0 +1,13 @@
+name = "Scout"
+filename = "scout-1.19-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ede4ac84e3a8545d0c060b8bb78ca85e3d25644"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3947029
+project-id = 631922

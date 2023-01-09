@@ -1,13 +1,13 @@
-name = "psmp"
-author = "Ernst Fisk"
+name = "BigMods"
+author = "Oscar"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c613480c48324074fe7887169079ee6d8b646c878b091e0f59ff4fdec72a5f14"
+hash = "58c7a9264aa0d46de460a9e6a3434daa781f44a2fec3b28479e26fe354f29e1f"
 
 [versions]
-fabric = "0.14.10"
 minecraft = "1.19.2"
+quilt = "0.18.1-beta.27"

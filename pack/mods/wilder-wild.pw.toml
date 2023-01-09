@@ -1,0 +1,13 @@
+name = "Wilder Wild [Fabric/Quilt]"
+filename = "WilderWild-1.1.6-Fabric+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b21779c6bbd233212de032fab1e0bec9e4b967d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4300822
+project-id = 648511

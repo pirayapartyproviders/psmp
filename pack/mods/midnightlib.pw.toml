@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-quilt-1.0.0-patch1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e1d6866bb820558e6c0db8cb6c9d1931d6ff268"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4059677
+project-id = 488090
