@@ -31,6 +31,11 @@ hash = "9dc645ae155361d0b097c6fff20161bf433b3569e418e2f6424583748596a4cb"
 metafile = true
 
 [[files]]
+file = "mods/auto-config-updated-api.pw.toml"
+hash = "1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "c8a05a25260e997b62f0ec9551d242f2dfad8fa27b5b68b4d057d9e302c8d41b"
 metafile = true
