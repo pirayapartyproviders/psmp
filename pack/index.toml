@@ -451,11 +451,6 @@ hash = "0dba52958fd6a8f9a1118550a12e2a58badca0f5514ef82c7b29c059026a4d5f"
 metafile = true
 
 [[files]]
-file = "mods/scout.pw.toml"
-hash = "9220edac770c544c7c4aab53580f9a01b8e9e7a82e17f4bd7d4432b1b48998c9"
-metafile = true
-
-[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "f0c841074c4ec7d4b0a7551904605e2c4470b73a9d491fde5d17420a9c67e147"
 metafile = true
