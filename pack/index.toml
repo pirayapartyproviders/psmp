@@ -226,11 +226,6 @@ hash = "f1c7c8543103c27794a448e246ce7b4ed29a792a9bc62cbc4c63c8652127b009"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "2264f673922651deb35c00b0020920baa49541d0d622d19f4562e287e4b3d025"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "454c2cb0c46a3332b2b6952709ba55067031a9aa7b1cff8d529f0882997faba6"
 metafile = true
