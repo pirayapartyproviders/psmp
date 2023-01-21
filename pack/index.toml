@@ -121,6 +121,11 @@ hash = "509946c15ef0ad05b9f2b9735db17795963b0f4c91693d2b6f7aa0843be3ba40"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
