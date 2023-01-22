@@ -531,6 +531,11 @@ hash = "9c3b1066767ca662ed2de3896b51047d94e1117a1a37770d3049fcc9e3951666"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "2a8dfc75429196334dfa45be5be94011e8ac2689b43268f2ea58a10e371eae9a"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
