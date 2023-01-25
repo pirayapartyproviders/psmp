@@ -36,6 +36,16 @@ hash = "9dc645ae155361d0b097c6fff20161bf433b3569e418e2f6424583748596a4cb"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5969255784945bf4fa184d89e6c32e5b430122161f9c6b2cce08574f46f10c87"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "c8a05a25260e997b62f0ec9551d242f2dfad8fa27b5b68b4d057d9e302c8d41b"
 metafile = true
@@ -528,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/things.pw.toml"
 hash = "9c3b1066767ca662ed2de3896b51047d94e1117a1a37770d3049fcc9e3951666"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
