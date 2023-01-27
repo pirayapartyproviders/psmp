@@ -46,6 +46,11 @@ hash = "bb2ce8c40f0e18b52e146b304ace367e92d5e904a7c6ff2da532cfd20af1404d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "c8a05a25260e997b62f0ec9551d242f2dfad8fa27b5b68b4d057d9e302c8d41b"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "96d0f0813bfee39c3a6371ccccde290b36dfbab7704a01f09d7628bd9b4fea7b"
 metafile = true
 
 [[files]]
@@ -233,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "814b3955219c3f1e6b10636b34c5615e09125df7138cad391fce3db39974a340"
-metafile = true
-
-[[files]]
-file = "mods/extrasounds.pw.toml"
-hash = "f1c7c8543103c27794a448e246ce7b4ed29a792a9bc62cbc4c63c8652127b009"
 metafile = true
 
 [[files]]
