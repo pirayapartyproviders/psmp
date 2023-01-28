@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
-hash = "b097f7b82c3c9578391dd93c82f1fd60a905b3db02b0e24e5d0a879e6b67dd4d"
+hash = "ae6082ca007fb28b89ce9b9a0c9a8956a978d92800a71f4af00ad6209aedd8cb"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "cd0fc96c044e809723e56aac532474d86f3f5478cbca15e54df530bbfaef8d38"
+hash = "3c1d62aa0d3fdaffa6262a66d6ad980d608e03d56f29b88b85b61cdd4b72fc4a"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/creatures-from-the-snow-fabric.pw.toml"
-hash = "509946c15ef0ad05b9f2b9735db17795963b0f4c91693d2b6f7aa0843be3ba40"
+hash = "1bea7553ef8f8c87bc74790e8c26261dd5c72ee2662a657e3de4c281e58aa886"
 metafile = true
 
 [[files]]
@@ -192,17 +192,17 @@ metafile = true
 
 [[files]]
 file = "mods/emerald-geodes.pw.toml"
-hash = "e8ee98bb96d4c945fc1bc83469ddafed9f5631e8fc8a0385552723d2bf6c923a"
+hash = "e9eb69347665c1fbca946686bcd64f1b4705160b1ac2dc83b13b1f17b4d00f32"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "acbe2b86cf452fd742fe76d32b6473f1da2f3e8f2d36d43a6f96fc32b369327e"
+hash = "43b6a7bf6aabe2e538d613bde52a354a9f55e50980bf808bdb5f875c68401f9b"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5b2566cd4cdfb5b47c31246af31ee4e27ec8ace3b248a00823adec7efd8f8fed"
+hash = "31d8b702aa46b73a8885e3b2fab07732f3387924d6ea7cfc8c753e7eb73465c4"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
-hash = "cc184bcd2ae2c045a3fed40ba03becc89a61477fb6c8aeef825fd03522c56afa"
+hash = "f1dc66ef41397292b6c1ee7051aa169e74a86b0ad4cc279ace5144e7a17442ef"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "5f03d470d55abdd9c2e7d78add8df73d5a42ccebc7095d7769cfb103210ed5d5"
+hash = "2f50aaa86689d400ed3d2316193056c118730088f248c58295df4fa31017f7b7"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "401e3a3fe0c975d1381c96af1be924b479ba7a11514c11bfe960f1d5ff0099ba"
+hash = "199f730eda58ce45cfc01f2470c06ad9d7c526a6f66a42d46322fc19da21faa1"
 metafile = true
 
 [[files]]
@@ -502,17 +502,17 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "af103d485d7c217f5fc9a965e1bb2a2d1b13fda12a8ab019321742ebdf2cc780"
+hash = "5cf3f81549c6f557ad61bfae01f7a306b62d2e9df6d3875bdcee6976e7eb4a83"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7f905853b279a34c95e4560eaeb1fedea47fd67abb623cbe1ff3f77159ff0c61"
+hash = "d26fc59b8f6faba19e94a2586e88ec7666a6d8cdfb3056a52ae9c9469c77da45"
 metafile = true
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
-hash = "075e0b6dac021c30ad7b692666122095f1f7fe979f7b23f5e1481f04d71ee1fa"
+hash = "0e3d33e4c97f41056ccb733a88e9d0e09667e5c819292d24139491787e4c1fae"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
+hash = "9b2acff3e884e46ff1c48274ed887b0dbe6e10a19c87930ade3a78510c7122d8"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/wilder-wild.pw.toml"
-hash = "1c63330479b4b12aa6be5d24f7ac226241b8dab83d459a06084a6df53818fdad"
+hash = "e41865ec9597bfd6ce07a537ccfe7c482b1e2313fef4b0f8b2cdc3e6d9367456"
 metafile = true
 
 [[files]]
