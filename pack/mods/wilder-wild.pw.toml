@@ -1,13 +1,13 @@
-name = "Wilder Wild [Fabric/Quilt]"
+name = "Wilder Wild"
 filename = "WilderWild-1.1.8-Fabric+1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/AtHRJSUW/versions/HZHxmddf/WilderWild-1.1.8-Fabric%2B1.19.2.jar"
 hash-format = "sha1"
 hash = "57d9db4b9ab1d524aea58c5051ac8c8e5f49c68e"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4360617
-project-id = 648511
+[update.modrinth]
+mod-id = "AtHRJSUW"
+version = "HZHxmddf"
