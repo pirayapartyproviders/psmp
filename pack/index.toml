@@ -166,11 +166,6 @@ hash = "fdb6ee70b285757658aab55f6c32af29edef9b5a868045749324b857a611c5f6"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
-metafile = true
-
-[[files]]
 file = "mods/duckling.pw.toml"
 hash = "5d1bc03ab200de1c0095b2eb8be4354f6860e1ace61abac4d8e53b29fc4c044d"
 metafile = true
