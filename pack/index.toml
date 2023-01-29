@@ -166,6 +166,11 @@ hash = "fdb6ee70b285757658aab55f6c32af29edef9b5a868045749324b857a611c5f6"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
+metafile = true
+
+[[files]]
 file = "mods/duckling.pw.toml"
 hash = "5d1bc03ab200de1c0095b2eb8be4354f6860e1ace61abac4d8e53b29fc4c044d"
 metafile = true
@@ -281,6 +286,11 @@ hash = "166af52f9b92d1b99b9108da9ec1584e5cb1a8b8483f11eace113a83b466091a"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "697be7f0a2d2c79f4cecddbbef1b08b8d1c3309d024a1472095bb1ae50a1bfdf"
 metafile = true
@@ -343,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi-fabric.pw.toml"
 hash = "cb9a1f3b8c10611cc84ab245d434af715a76f7bc2bc8f8cd92b9297d90d6d765"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -513,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
 hash = "0e3d33e4c97f41056ccb733a88e9d0e09667e5c819292d24139491787e4c1fae"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
