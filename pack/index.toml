@@ -581,6 +581,11 @@ hash = "95d573e09df96d3d984e9c08fa809297f3fcb6ae19ec43983f665bb20f7ad446"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5ba58212371c4dd21cc9d570de76d69c86b182ab751f1a9c0a6aa6282d2e54ae"
+metafile = true
+
+[[files]]
 file = "mods/vanityslots.pw.toml"
 hash = "aaf65877574c35f7a348014ddfb77b55fc1b88a089652fac2d8500b407de6555"
 metafile = true
@@ -598,11 +603,6 @@ metafile = true
 [[files]]
 file = "mods/wilder-wild.pw.toml"
 hash = "25d7fc7084f3d979f01f9e7945bd9926df6dbad69bcf614f1cb173e1fb4fe1f6"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "d50f1f988b35d7b788d945fece5e8605daac9c9b819a23f2ed3f87e9142f4a24"
 metafile = true
 
 [[files]]
