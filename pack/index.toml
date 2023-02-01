@@ -6,6 +6,11 @@ hash = "813c9e3195948559d0daeb5a03ac0169645719c01a9604bebc61ae71d03525a0"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/adventurez.pw.toml"
 hash = "69ff69fc11e380ea960d04b809f724275866e96f4fe7600a64e420357632a725"
 metafile = true
