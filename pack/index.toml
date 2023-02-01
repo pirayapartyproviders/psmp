@@ -566,6 +566,11 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "d74ff589913b6fdccfa1cc28b33e442dc2dd9a55ec5731602b691450d220f62f"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "9c3b1066767ca662ed2de3896b51047d94e1117a1a37770d3049fcc9e3951666"
 metafile = true
